@@ -1,0 +1,6 @@
+name = UCM Webform Lists
+description = Used to return a custom list of departments for web-forms.
+package = "UC Merced"
+version = VERSION
+core = 7.x
+files[] = ucm-webform-lists.module
